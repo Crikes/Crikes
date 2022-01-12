@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Crikes
+- I'm just learning about Git
